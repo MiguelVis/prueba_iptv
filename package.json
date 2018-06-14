@@ -1,0 +1,34 @@
+{
+	"name": "PruebaIPTV",
+	"version": "1.0.0",
+	"description": "PruebaIPTV - PRUEBA.",
+	"author": {
+		"name": "mgl"
+	},
+	"license": "",
+	"repository": {
+		"type": "git",
+		"url": "http://gitlab.vlc.nethits.com/mgarcia/prueba_iptv.git"
+	},
+	"options": [],
+	"config": {
+		"type": "app",
+		"category": "games",
+		"name": "PruebaIPTV",
+		"backgroundColor": "#c12226",
+		"legacy": true,
+		"description": "PruebaIPTV - PRUEBA.",
+		"icons": {
+			"paths": {
+				"480": "img/480/icons/",
+				"576": "img/576/icons/",
+				"720": "img/720/icons/",
+				"1080": "img/1080/icons/"
+			},
+			"states": {
+				"normal": "normal.png",
+				"active": "active.png"
+			}
+		}
+	}
+}
