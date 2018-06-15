@@ -1,6 +1,6 @@
 {
 	"name": "PruebaIPTV",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"description": "PruebaIPTV - PRUEBA.",
 	"author": {
 		"name": "mgl"
@@ -8,7 +8,7 @@
 	"license": "",
 	"repository": {
 		"type": "git",
-		"url": "http://gitlab.vlc.nethits.com/mgarcia/prueba_iptv.git"
+		"url": "https://github.com/MiguelVis/prueba_iptv.git"
 	},
 	"options": [],
 	"config": {
