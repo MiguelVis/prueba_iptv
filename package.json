@@ -3,14 +3,13 @@
 	"version": "0.0.1",
 	"description": "PruebaIPTV - PRUEBA.",
 	"author": {
-		"name": "mgl"
+		"name": "Miguel García"
 	},
-	"license": "",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/MiguelVis/prueba_iptv.git"
 	},
-	"options": [],
+	"license": "Public domain",
 	"config": {
 		"type": "app",
 		"category": "games",
